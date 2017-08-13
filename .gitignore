@@ -1,0 +1,7 @@
+# folders
+node_modules
+
+# files
+.env*
+!.env-template
+*.log
