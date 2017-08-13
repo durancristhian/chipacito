@@ -1,5 +1,7 @@
 # chipacito
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/durancristhian/chipacito.svg)](https://greenkeeper.io/)
+
 ✉️ microservice to send emails with captcha integration
 
 ## Development
